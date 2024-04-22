@@ -1,2 +1,3 @@
 # Random_Forest
-This is sample of Random Forest using Python
+Lets Understand Random Forest Algorithm using Python in simple way
+Author : Rahul
